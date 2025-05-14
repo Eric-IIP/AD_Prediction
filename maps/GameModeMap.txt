@@ -1,0 +1,12 @@
+Game mode:
+
+    Game Mode	ID
+    All Pick	1
+    Captains Mode	2
+    Random Draft	3
+    Single Draft	4
+    All Random	5
+    Ability Draft	18
+    Ranked All Pick	22
+    Turbo	23
+

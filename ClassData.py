@@ -15,8 +15,10 @@ class Player:
         self.potential_scepter_ability = potential_scepter_ability
 
 class Match:
-    def __init__(self, Players):
-        self.Players = Players
+    def __init__(self, match_id, dire_Player, radiant_Player):
+        self.match_id = match_id
+        self.dire_Player = dire_Player
+        self.radiant_PLayer = radiant_Player
         
 
 
